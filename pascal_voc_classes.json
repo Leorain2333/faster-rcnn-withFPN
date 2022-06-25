@@ -1,0 +1,9 @@
+{
+    "oil": 1,
+    "shiptrace": 2,
+    "low_speed_area": 3,
+    "back_wind_area": 4,
+    "bio_oils": 5,
+    "inner_wave": 6,
+    "rain_bag": 7
+}
